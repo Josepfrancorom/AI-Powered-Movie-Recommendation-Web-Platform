@@ -62,7 +62,3 @@ This project consists of a web platform for movie recommendation using Artificia
     ```
    The Python server will be started at [http://localhost:8000](http://localhost:8000).
 
----
-
-Ahora los saltos de línea y la estructura deberían funcionar correctamente en GitHub. Asegúrate de que el archivo tenga la extensión **`.md`** y que estés usando un editor de texto que respete la codificación **UTF-8**. Además, puedes previsualizar tu README antes de subirlo a GitHub para asegurarte de que se vea como esperas. 🚀
-
